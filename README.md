@@ -1,7 +1,4 @@
-# C Sharp, Praxis und Rezepte
-
-Das Buch: 
-https://www.amazon.de/Praxis-Rezepte-Mit-Beispielen-Technik/dp/1980309361/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=16IJTB9CJ0ZL6&keywords=c%23+praxis+%26+rezepte&qid=1558979765&s=gateway&sprefix=C%23+Praxis%2Caps%2C163&sr=8-1
+# C-Sharp, Praxis und Rezepte
 
 ### Was Du verstehst, das kannst Du auch programmieren! 
 
